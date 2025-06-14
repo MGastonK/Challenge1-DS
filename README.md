@@ -43,10 +43,4 @@ En base al análisis de los datos, **Tienda 4** se consideró como la candidata 
 
 ---
 
-## 🛠️ Cómo Ejecutar el Proyecto
 
-### 1. **Clonar el Repositorio**
-Para empezar, clona este repositorio en tu máquina local:
-
-```bash
-git clone https://github.com/usuario/nombre-del-repositorio.git
