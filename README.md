@@ -43,4 +43,20 @@ En base al análisis de los datos, **Tienda 4** se consideró como la candidata 
 
 ---
 
+### Instrucciones
+
+Para ejecutar el archivo necesitarás:
+
+- Python 3.x
+- Jupyter Notebook (o Google Colab)
+- Bibliotecas:
+  - `matplotlib`
+  - `numpy` (si se utiliza en celdas adicionales)
+
+Puedes instalar `matplotlib` si no lo tienes con el siguiente comando:
+
+```bash
+pip install matplotlib
+---
+
 
